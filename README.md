@@ -1,5 +1,5 @@
 # LightThemAll
-A puzzle game! /n
+A puzzle game! 
 
 Click on the boxes to rotate them.
 
